@@ -10,6 +10,8 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 - ⚡ Fun fact: I am an extrovert with similar-minded people.
 
 # Tools and Technologies
+<img src="https://github.com/simple-icons/simple-icons/blob/fd422e663e915ce6a91108852aafece0d967f310/icons/amazonaws.svg" width="100" height="100">
+
 ![](https://github.com/simple-icons/simple-icons/blob/fd422e663e915ce6a91108852aafece0d967f310/icons/amazonaws.svg =250x250) ![](https://github.com/simple-icons/simple-icons/blob/fd422e663e915ce6a91108852aafece0d967f310/icons/visualstudiocode.svg) ![](https://github.com/simple-icons/simple-icons/blob/fd422e663e915ce6a91108852aafece0d967f310/icons/docker.svg) ![](https://github.com/simple-icons/simple-icons/blob/fd422e663e915ce6a91108852aafece0d967f310/icons/jupyter.svg)
 
 # Github Stats
