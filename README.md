@@ -16,7 +16,7 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 [![kuluruvineeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuluruvineeth&show_icons=true&theme=radical)](https://github.com/kuluruvineeth/github-readme-stats)
 
 ### Top Languages
-[![Frequently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuluruvineeth&layout=compact)](https://github.com/kuluruvineeth/github-readme-stats)
+[![Frequently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuluruvineeth&layout=compact&theme=radical)](https://github.com/kuluruvineeth/github-readme-stats)
 
 
 <!--
