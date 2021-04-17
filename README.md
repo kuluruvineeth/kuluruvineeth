@@ -10,7 +10,7 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 - ⚡ Fun fact: I am an extrovert with similar-minded people.
 
 ### Tools and Technologies
-![tt]()
+![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/toolsandtechnologies.png)
 
 
 <!--
