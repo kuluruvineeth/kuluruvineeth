@@ -21,9 +21,10 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 ### My Repositories at Glance
 
  | Machine Learning                  | Deep Learning                | 
+ |-----------------------------------|------------------------------|
  | * [Machine Learning with python]  | * [Deep Learning with python]|
- | * [ML Algorithms from scratch]    |                              | 
- | *                                 |                              | 
+ | * [ML Algorithms from scratch]    | * [something]                | 
+                        
 
 
 
