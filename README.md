@@ -1,4 +1,4 @@
-### Hi there, I am kuluru vineeth👋
+### Hi there, I am kuluru vineeth ![hi](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/hi.gif)👋
 
 <!--
 **kuluruvineeth/kuluruvineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
