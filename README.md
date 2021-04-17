@@ -18,6 +18,15 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 ### Top Languages
 [![Frequently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuluruvineeth&layout=compact&theme=radical)](https://github.com/kuluruvineeth/github-readme-stats)
 
+### My Repositories at Glance
+
+ | Machine Learning                  | Deep Learning                | 
+ | * [Machine Learning with python]  | * [Deep Learning with python]|
+ | * [ML Algorithms from scratch]    |                              | 
+ | *                                 |                              | 
+
+Congratulations to all who took part and I look forward to seeing you all at the next one!
+
 
 <!--
 **kuluruvineeth/kuluruvineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
