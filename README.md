@@ -1,11 +1,15 @@
-### Hi there, I am kuluru vineeth ![hi](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/hi.gif)👋
+### Hi there, I am kuluru vineeth! ![hi](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/hi.gif)👋
+
+I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
+
+- 🔭 Machine Learning ,Deep Learning and Data Science Enthusiast
 
 <!--
 **kuluruvineeth/kuluruvineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
