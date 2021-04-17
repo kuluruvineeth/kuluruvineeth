@@ -12,6 +12,9 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 ### Tools and Technologies
 ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/toolsandtechnologies.png) ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/docker.png) ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/vs.jpeg) ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/Rasa.jpeg)
 
+### Github Stats
+[![kuluruvineeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuluruvineeth)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **kuluruvineeth/kuluruvineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
