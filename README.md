@@ -3,6 +3,7 @@
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
 
 - 🔭 Machine Learning ,Deep Learning and Data Science Enthusiast
+- ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/briefcase_emoji.png)
 
 <!--
 **kuluruvineeth/kuluruvineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
