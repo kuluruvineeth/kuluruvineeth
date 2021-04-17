@@ -5,7 +5,7 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 - 🔭 Machine Learning ,Deep Learning and Data Science Enthusiast
 - 💡 Currently persuing my third year of Bachelor of Technology in **Computer Science** at **Indian Institute of Information Technology Dharwad**.
 - 🌈 **Areas of Interest** : *Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Generative Adversary Networks and Time-series Forecasting*.
-- 💬 Ask me about anything i am open  
+- 💬 Ask me about anything i am open to everyone  
 - 📫 You can reach me anytime via [Linkedin](https://www.linkedin.com/in/kuluruvineeth/)
 - ⚡ Fun fact: I am an extrovert with similar-minded people.
 
@@ -25,7 +25,6 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
  | * [ML Algorithms from scratch]    |                              | 
  | *                                 |                              | 
 
-Congratulations to all who took part and I look forward to seeing you all at the next one!
 
 
 <!--
