@@ -13,7 +13,7 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/toolsandtechnologies.png) ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/docker.png) ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/vs.jpeg) ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/Rasa.jpeg)
 
 ### Github Stats
-[![kuluruvineeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuluruvineeth)](https://github.com/anuraghazra/github-readme-stats)
+[![kuluruvineeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuluruvineeth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
