@@ -1,4 +1,4 @@
-### Hi there, I am kuluru vineeth! ![hi](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/hi.gif)👋
+# Hi there, I am kuluru vineeth! ![hi](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/hi.gif)👋
 
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
 
@@ -9,16 +9,16 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 - 📫 You can reach me anytime via [Linkedin](https://www.linkedin.com/in/kuluruvineeth/)
 - ⚡ Fun fact: I am an extrovert with similar-minded people.
 
-### Tools and Technologies
+# Tools and Technologies
 ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/toolsandtechnologies.png) ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/docker.png) ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/vs.jpeg) ![](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/Rasa.jpeg)
 
-### Github Stats
+# Github Stats
 [![kuluruvineeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuluruvineeth&show_icons=true&theme=radical)](https://github.com/kuluruvineeth/github-readme-stats)
 
-### Top Languages
+# Top Languages
 [![Frequently Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuluruvineeth&layout=compact&theme=radical)](https://github.com/kuluruvineeth/github-readme-stats)
 
-### My Repositories at Glance
+# My Repositories at Glance
 
  | Machine Learning                  | Deep Learning                | 
  |-----------------------------------|------------------------------|
