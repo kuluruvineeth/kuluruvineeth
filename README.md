@@ -20,10 +20,12 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 
 # My Repositories at Glance
 
- | Machine Learning                  | Deep Learning                | 
- |-----------------------------------|------------------------------|
- | * [Machine Learning with python]  | * [Deep Learning with python]|
- | * [ML Algorithms from scratch]    | * [something]                | 
+ | Machine Learning                  | Deep Learning                | Projects                  |
+ |-----------------------------------|------------------------------|---------------------------|
+ | [Machine Learning with python](https://github.com/kuluruvineeth/Machine-Learning-with-Python)    |   [Deep Learning with python](https://github.com/kuluruvineeth/Deep-Learning-with-python)| [Agrosahakar-An-AI-Chatbot-for-Agriculture-Sector](https://github.com/kuluruvineeth/Agrosahakar-An-AI-Chatbot-for-Agriculture-Sector)                          |
+ |       |   [Deep Learning for NLP](https://github.com/kuluruvineeth/Deep-Learning-for-NLP)    | [Startup-Profit-Prediction](https://github.com/kuluruvineeth/Startup-Profit-Prediction)                           |
+ |                                   |   [Deep Learning for CV](https://github.com/kuluruvineeth/Deep-Learning-For-CV)       | [Labor-Help](https://github.com/kuluruvineeth/Labor-Help)                          |
+ |                                   |   [Deep Learning for GANs](https://github.com/kuluruvineeth/Deep-Learning-for-GANs)    | [DBMS](https://github.com/kuluruvineeth/DBMS)                          |
                         
 
 
