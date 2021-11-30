@@ -20,12 +20,17 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 
 # My Repositories at Glance
 
- | Machine Learning                  | Deep Learning                | Projects                  |
+ | Blockchain dApps                  | Deep Learning                | AI Projects,MERN Projects,Devops Assignments                  |
  |-----------------------------------|------------------------------|---------------------------|
- | [Machine Learning with python](https://github.com/kuluruvineeth/Machine-Learning-with-Python)    |   [Deep Learning with python](https://github.com/kuluruvineeth/Deep-Learning-with-python)| [Agrosahakar-An-AI-Chatbot-for-Agriculture-Sector](https://github.com/kuluruvineeth/Agrosahakar-An-AI-Chatbot-for-Agriculture-Sector)                          |
- |       |   [Deep Learning for NLP](https://github.com/kuluruvineeth/Deep-Learning-for-NLP)    | [Startup-Profit-Prediction](https://github.com/kuluruvineeth/Startup-Profit-Prediction)                           |
- |                                   |   [Deep Learning for CV](https://github.com/kuluruvineeth/Deep-Learning-For-CV)       | [Labor-Help](https://github.com/kuluruvineeth/Labor-Help)                          |
- |                                   |   [Deep Learning for GANs](https://github.com/kuluruvineeth/Deep-Learning-for-GANs)    | [DBMS](https://github.com/kuluruvineeth/DBMS)                          |
+ |[CMOWE-A decentralized films](https://github.com/kuluruvineeth/cmowe)                                 |[Machine Learning with python](https://github.com/kuluruvineeth/Machine-Learning-with-Python)                             |[Agrosahakar-An-AI-Chatbot-for-Agriculture-Sector](https://github.com/kuluruvineeth/Agrosahakar-An-AI-Chatbot-for-Agriculture-Sector)                           |
+ |[Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain](https://github.com/kuluruvineeth/Agrochain-A-Blockchain-Based-Agricultural-Supply-Chain)     |   [Deep Learning with python](https://github.com/kuluruvineeth/Deep-Learning-with-python)|[My Portfolio](https://github.com/kuluruvineeth/kvportfolio)                           |
+ |[Decentragram](https://github.com/kuluruvineeth/decentragram)       |   [Deep Learning for NLP](https://github.com/kuluruvineeth/Deep-Learning-for-NLP)    | [Social Website](https://github.com/kuluruvineeth/social)                           |
+ |[Dyoutube](https://github.com/kuluruvineeth/dyoutube)                                  |   [Deep Learning for CV](https://github.com/kuluruvineeth/Deep-Learning-For-CV)       | [Online Classroom](https://github.com/kuluruvineeth/classroom)                        |
+ |[Dstorage](https://github.com/kuluruvineeth/dstorage)                                   |   [Deep Learning for GANs](https://github.com/kuluruvineeth/Deep-Learning-for-GANs)    | [MarketPlace Bidding](https://github.com/kuluruvineeth/marketplace-bidding)                          |
+ |[BlockChain-SocialNetwork](https://github.com/kuluruvineeth/blockchain-socialNetwork)                                  |                               |[Expense Tracker](https://github.com/kuluruvineeth/expense-tracker)                          |
+ |[Decentralized-Bank](https://github.com/kuluruvineeth/Decentralized-bank)                                  |                                |[MediaStream](https://github.com/kuluruvineeth/mediastream)                          |
+ |                                 |                                |[Devops](https://github.com/kuluruvineeth/Devops)                              |
+ |                                 |                                |[DBMS](https://github.com/kuluruvineeth/DBMS)                           |
                         
 
 
