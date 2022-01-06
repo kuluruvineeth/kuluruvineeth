@@ -1,4 +1,5 @@
 # Hi there, I am kuluru vineeth! ![hi](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/hi.gif)👋
+![](https://komarev.com/ghpvc/?username=kuluruvineeth&color=blue)
 
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
 
@@ -42,8 +43,6 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
  |                                 |                                |[Labor Help](https://github.com/kuluruvineeth/Labor-Help)               |                 
 
 
-
-![Visitor Count](https://profile-counter.glitch.me/kuluruvineeth/count.svg)
 <!--
 **kuluruvineeth/kuluruvineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
