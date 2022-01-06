@@ -43,6 +43,7 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
 
 
 
+![Visitor Count](https://profile-counter.glitch.me/kuluruvineeth/count.svg)
 <!--
 **kuluruvineeth/kuluruvineeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
