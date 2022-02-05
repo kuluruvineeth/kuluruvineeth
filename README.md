@@ -3,7 +3,7 @@
 
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
 
-- 🔭 Blockchain dApp developer,Devops and Deep Learning Enthusiast
+- 🔭 Devops,MERN stack,Blockchain dApp developer and Deep Learning Enthusiast
 - 💡 Currently persuing my fourth year of Bachelor of Technology in **Computer Science** at **Indian Institute of Information Technology Dharwad**.
 - 🌈 **Areas of Interest** : *Blockchain dApps developing,Devops,Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Generative Adversary Networks and Time-series Forecasting*.
 - 💬 Ask me about anything i am open to everyone  
