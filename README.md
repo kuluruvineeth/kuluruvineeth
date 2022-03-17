@@ -3,9 +3,9 @@
 
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
 
-- 🔭 Devops,AWS,Kubernetes,Natural Language Processing Enthusiast and MERN Stack.
+- 🔭 Devops, AWS, Kubernetes, Natural Language Processing Enthusiast and MERN Stack.
 - 💡 Currently persuing my fourth year of Bachelor of Technology in **Computer Science** at **Indian Institute of Information Technology Dharwad**.
-- 🌈 **Areas of Interest** : *Devops Engineering, Natural Language Processing,Computer Vision, MERN Stack and React Native*.
+- 🌈 **Areas of Interest** : *Devops Engineering, Natural Language Processing, Computer Vision, MERN Stack and React Native*.
 - 💬 Ask me about anything i am open to everyone  
 - 📫 You can reach me anytime via [Linkedin](https://www.linkedin.com/in/kuluruvineeth/)
 - ⚡ Fun fact: I am an extrovert with similar-minded people.
