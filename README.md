@@ -3,12 +3,16 @@
 
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
 
-- 🔭 Devops, AWS, Kubernetes, Natural Language Processing Enthusiast and MERN Stack.
+- 🔭 Devops, AWS, Kubernetes,Terraform, Natural Language Processing Enthusiast and MERN Stack.
 - 💡 Currently persuing my fourth year of Bachelor of Technology in **Computer Science** at **Indian Institute of Information Technology Dharwad**.
-- 🌈 **Areas of Interest** : *Devops Engineering, Natural Language Processing, Computer Vision, MERN Stack and React Native*.
+- 🌈 **Areas of Interest** : *Devops Engineering, Natural Language Processing, Computer Vision, MERN Stack and Flutter & Firebase*.
 - 💬 Ask me about anything i am open to everyone  
 - 📫 You can reach me anytime via [Linkedin](https://www.linkedin.com/in/kuluruvineeth/)
 - ⚡ Fun fact: I am an extrovert with similar-minded people.
+- I constantly keep evolving to enhance my skills and be at par with trending and fast adapting technologies, here are my recently achieved certifications : 
+   - *Linux Foundation* - **Certified Kubernetes Administrator.**
+   - *AWS Certified* **Solutions Architect Associate.**
+   - *HashiCorp Certified* **Terraform Associate.**
 
 # Tools and Technologies
 <img src="https://github.com/kuluruvineeth/kuluruvineeth/blob/main/kubernetes.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,8 +54,8 @@ I am very quicked-paced **Learner** and adaptive to novice **Trends and Technolo
  |[BlockChain-SocialNetwork](https://github.com/kuluruvineeth/blockchain-socialNetwork)                                  |                               |[Expense Tracker](https://github.com/kuluruvineeth/expense-tracker)                          |
  |[Decentralized-Bank](https://github.com/kuluruvineeth/Decentralized-bank)                                  |                                |[MediaStream](https://github.com/kuluruvineeth/mediastream)                          |
  |                                 |                                |[Devops](https://github.com/kuluruvineeth/Devops)                              |
- |                                 |                                |[DBMS](https://github.com/kuluruvineeth/DBMS)                           |
- |                                 |                                |[Labor Help](https://github.com/kuluruvineeth/Labor-Help)               |                 
+ |                                 |                                |[TerraformAWS](https://github.com/kuluruvineeth/TerraformAWS)                           |
+ |                                 |                                |[KubernetesAWS](https://github.com/kuluruvineeth/KubernetesAWS)               |                 
 
 
 <!--
