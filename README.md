@@ -4,7 +4,7 @@
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
 
 - 🔭 Devops, AWS, Kubernetes,Terraform, Natural Language Processing Enthusiast and MERN Stack.
-- 💡 Currently persuing my fourth year of Bachelor of Technology in **Computer Science** at **Indian Institute of Information Technology Dharwad**.
+- 💡 Currently pursuing my fourth year of Bachelor of Technology in **Computer Science** at **Indian Institute of Information Technology Dharwad**.
 - 🌈 **Areas of Interest** : *Devops Engineering, Natural Language Processing, Computer Vision, MERN Stack and Flutter & Firebase*.
 - 💬 Ask me about anything i am open to everyone  
 - 📫 You can reach me anytime via [Linkedin](https://www.linkedin.com/in/kuluruvineeth/)
