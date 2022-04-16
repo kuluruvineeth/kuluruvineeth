@@ -1,4 +1,4 @@
-# Hi there, I am kuluru vineeth! ![hi](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/hi.gif)👋
+# Hi there, I am *Kuluru Vineeth!* ![hi](https://github.com/kuluruvineeth/kuluruvineeth/blob/main/hi.gif)👋
 ![](https://komarev.com/ghpvc/?username=kuluruvineeth&color=blue)
 
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
