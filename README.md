@@ -3,9 +3,9 @@
 
 I am very quicked-paced **Learner** and adaptive to novice **Trends and Technologies**.
 
-- 🔭 Passionate about **Native Android Development** and love to build impactful products <img src="https://github.com/kuluruvineeth/kuluruvineeth/blob/main/androidLogo.gif" width="250" height="150"/>
+- 🔭 Passionate about **Software Development** and love to build impactful products <img src="https://github.com/kuluruvineeth/kuluruvineeth/blob/main/androidLogo.gif" width="250" height="150"/>
 - 💡 Pursued Bachelor of Technology in **Computer Science** at **Indian Institute of Information Technology Dharwad**.
-- 🌈 **Areas of Interest** : Native Android Development & Firebase*.
+- 🌈 **Areas of Interest** : Remote Software Development*.
 - 💬 Ask me about anything i am open to everyone  
 - 📫 You can reach me anytime via [Linkedin](https://www.linkedin.com/in/kuluruvineeth/)
 - ⚡ Fun fact: I am an extrovert with similar-minded people.
