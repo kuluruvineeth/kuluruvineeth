@@ -1,6 +1,6 @@
 ## Kuluru Vineeth
 
-Product engineer. I build AI products and open-source them.
+Product engineer. I build AI products.
 
 ---
 
