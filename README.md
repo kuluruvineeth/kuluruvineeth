@@ -12,8 +12,6 @@ Product engineer. I build AI products and open-source them.
 
 **[Cutroom](https://github.com/kuluruvineeth/cutroom)** — a video editor built for AI-assisted editing.
 
-**[dev-pulse](https://github.com/kuluruvineeth/dev-pulse)** — a durable swarm of agents that surfaces what developers are actually frustrated about, across HN, Reddit, X and Lobsters.
-
 **[Dockyard](https://github.com/kuluruvineeth/dockyard)** — deploy your apps on your own servers. Docker, zero-downtime releases, your hardware.
 
 ---
@@ -26,6 +24,7 @@ Building AI products end to end, on camera — the design, the failure, and the 
 
 ---
 
-TypeScript · Python · Go · Temporal · LangChain · MCP · Postgres · Kafka · Elasticsearch · Docker · Kubernetes
+TypeScript · Python · Go · Pydantic AI · Claude Agent SDK · OpenAI Agents SDK · Temporal · MCP
+Postgres · Kafka · Elasticsearch · Docker · Kubernetes
 
 [kuluruvineeth.com](https://www.kuluruvineeth.com)
