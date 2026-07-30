@@ -43,14 +43,10 @@ experience around all three.
 
 ---
 
-### Worth reading if you're evaluating me
+### Also built
 
 - **[blackout-migrate](https://github.com/kuluruvineeth/blackout-migrate)** — agent-driven online schema migration on 5M rows, no downtime.
 - **[dev-pulse](https://github.com/kuluruvineeth/dev-pulse)** — a durable, observable swarm of agents.
-- **[super_productive](https://github.com/kuluruvineeth/super_productive)** — team workspace with tasks, mind maps and pomodoro. Prisma, NextAuth, i18n.
+- **[super_productive](https://github.com/kuluruvineeth/super_productive)** — team workspace with tasks, mind maps and pomodoro.
 - **[codecapsule](https://github.com/kuluruvineeth/codecapsule)** — describe an app, watch it run in a live E2B sandbox.
-
----
-
-Open to **Developer Relations** and **senior / staff engineering** roles.
-Reach me at [kuluruvineeth.com](https://www.kuluruvineeth.com) or [@kuluruvineeth](https://www.youtube.com/@kuluruvineeth).
+- **[chathub](https://github.com/kuluruvineeth/chathub)** — one chat interface across OpenAI, Anthropic and Gemini.
