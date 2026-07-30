@@ -4,7 +4,7 @@ Product engineer. I build AI products.
 
 ---
 
-**[Openbeam](https://openbeam.work)** — open-source Glean. Search across 87 connectors, with autonomous agents and an MCP server. Temporal-orchestrated, AGPL, self-hosted.
+**[Openbeam](https://github.com/kuluruvineeth/openbeam)** — open-source Glean. Search across 87 connectors, with autonomous agents and an MCP server. Temporal-orchestrated, AGPL, self-hosted.
 
 **[Groundwork](https://github.com/kuluruvineeth/groundwork)** — a managed agent service for long-running work. Durable execution on Temporal: the agent survives the worker dying mid-job.
 
@@ -12,7 +12,7 @@ Product engineer. I build AI products.
 
 **[Cutroom](https://github.com/kuluruvineeth/cutroom)** — a video editor built for AI-assisted editing.
 
-**[Dockyard](https://github.com/kuluruvineeth/dockyard)** — deploy your apps on your own servers. Docker, zero-downtime releases, your hardware.
+**Dockyard** — deploy your apps on your own servers. Docker, zero-downtime releases, your hardware.
 
 ---
 
@@ -26,5 +26,3 @@ Building AI products end to end, on camera — the design, the failure, and the 
 
 TypeScript · Python · Go · Pydantic AI · Claude Agent SDK · OpenAI Agents SDK · Temporal · MCP
 Postgres · Kafka · Elasticsearch · Docker · Kubernetes
-
-[kuluruvineeth.com](https://www.kuluruvineeth.com)
