@@ -9,7 +9,7 @@ failure, and the fix. Around **320 videos** and **~6k developers** on YouTube.
 
 ---
 
-### What I'm building now
+### Projects
 
 | | |
 |---|---|
@@ -43,7 +43,7 @@ experience around all three.
 
 ---
 
-### Also built
+### More
 
 - **[blackout-migrate](https://github.com/kuluruvineeth/blackout-migrate)** — agent-driven online schema migration on 5M rows, no downtime.
 - **[dev-pulse](https://github.com/kuluruvineeth/dev-pulse)** — a durable, observable swarm of agents.
