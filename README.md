@@ -1,6 +1,6 @@
 ## Kuluru Vineeth
 
-Self-hosted developer infrastructure, built in the open and explained on camera.
+Product engineer. I build AI products and open-source them.
 
 ---
 
@@ -22,10 +22,7 @@ Self-hosted developer infrastructure, built in the open and explained on camera.
 
 [**@kuluruvineeth**](https://www.youtube.com/@kuluruvineeth) — 320 videos, ~6k developers.
 
-[**Go microservices**](https://www.youtube.com/playlist?list=PLJMBE6lUQTBQ) is the current series: three services over gRPC with Postgres, MongoDB, Kafka, RabbitMQ and Elasticsearch, built in the order it actually happened. 38 parts, including the parts that broke.
-
-Alongside it, system design taken apart properly — WhatsApp, Tinder, Yelp, Dropbox — and the
-patterns underneath: scaling reads and writes, contention, long-running jobs, large blobs.
+Building AI products end to end, on camera — the design, the failure, and the fix.
 
 ---
 
