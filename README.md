@@ -4,17 +4,17 @@ Product engineer. I build AI products and open-source them.
 
 ---
 
-**[Dockyard](https://github.com/kuluruvineeth/dockyard)** — deploy your apps on your own servers. Docker, zero-downtime releases, your hardware.
+**[Openbeam](https://openbeam.work)** — open-source Glean. Search across 87 connectors, with autonomous agents and an MCP server. Temporal-orchestrated, AGPL, self-hosted.
 
-**[Groundwork](https://github.com/kuluruvineeth/groundwork)** — durable execution for long-running agents. Survives the worker dying mid-job.
+**[Groundwork](https://github.com/kuluruvineeth/groundwork)** — a managed agent service for long-running work. Durable execution on Temporal: the agent survives the worker dying mid-job.
 
-**[Openbeam](https://openbeam.work)** — search across 87 connectors, with an MCP server. AGPL, self-hosted.
-
-**[Open Studio](https://openstudio.tech)** — an open AI ecosystem: ChatHub for multi-model chat, Tube for YouTube creators.
+**[Open Studio](https://openstudio.tech)** — an open AI ecosystem: ChatHub for multi-model chat across OpenAI, Anthropic and Gemini, and Tube for YouTube creators.
 
 **[Cutroom](https://github.com/kuluruvineeth/cutroom)** — a video editor built for AI-assisted editing.
 
-**[blackout-migrate](https://github.com/kuluruvineeth/blackout-migrate)** — online schema migration across 5M rows without downtime.
+**[dev-pulse](https://github.com/kuluruvineeth/dev-pulse)** — a durable swarm of agents that surfaces what developers are actually frustrated about, across HN, Reddit, X and Lobsters.
+
+**[Dockyard](https://github.com/kuluruvineeth/dockyard)** — deploy your apps on your own servers. Docker, zero-downtime releases, your hardware.
 
 ---
 
@@ -26,6 +26,6 @@ Building AI products end to end, on camera — the design, the failure, and the 
 
 ---
 
-TypeScript · Go · Python · Kotlin · Postgres · Kafka · Elasticsearch · Docker · Kubernetes
+TypeScript · Python · Go · Temporal · LangChain · MCP · Postgres · Kafka · Elasticsearch · Docker · Kubernetes
 
 [kuluruvineeth.com](https://www.kuluruvineeth.com)
