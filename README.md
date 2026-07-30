@@ -18,7 +18,7 @@ Product engineer. I build AI products.
 
 ### On YouTube
 
-[**@kuluruvineeth**](https://www.youtube.com/@kuluruvineeth) — 320 videos, ~6k developers.
+[**@kuluruvineeth**](https://www.youtube.com/@kuluruvineeth) — 300+ videos, ~6k developers.
 
 Building AI products end to end, on camera — the design, the failure, and the fix.
 
