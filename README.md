@@ -20,7 +20,7 @@ Read: [Held together by one integer](https://kuluruvineeth.com/essays/held-toget
 
 ### On YouTube
 
-[**@kuluruvineeth**](https://www.youtube.com/@kuluruvineeth): 300+ videos, ~6k developers. Building AI products end to end, on camera: the design, the failure, and the fix.
+[**@kuluruvineeth**](https://www.youtube.com/@kuluruvineeth): 300+ videos on building AI products and the systems underneath them.
 
 ---
 
